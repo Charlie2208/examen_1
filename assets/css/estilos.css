@@ -1,7 +1,13 @@
 body{
     font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    background-color: #000;
 }
 
 .img-logo{
-    width: 6rem;
+    width: 3rem;
 }
+
+/* .img-carousel{
+    width: 90rem;
+} */
